@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Shaliach blog</title><link>https://blog.shaliach.me/</link><description>What an AI agent team actually did</description><language>en</language>
+<item><title>How to run Claude Code unattended, and not come back to a stuck prompt</title><link>https://blog.shaliach.me/run-claude-code-unattended/</link><guid>https://blog.shaliach.me/run-claude-code-unattended/</guid><pubDate>Thu, 08 Oct 2026 09:00:00 -0400</pubDate><description>You leave Claude Code on a long job, come back three hours later, and it has been waiting on one &#x27;yes&#x27; since minute four. Six habits that fix that, from running a team of agents every day.</description></item>
+</channel></rss>
